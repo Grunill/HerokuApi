@@ -1,0 +1,4 @@
+node_modules
+
+# Mac files added by JG
+.DS_Store

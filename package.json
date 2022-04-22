@@ -1,0 +1,23 @@
+{
+  "name": "my_herokuapi",
+  "version": "1.0.0",
+  "description": "HerokuApi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grunill/HerokuApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grunill/HerokuApi/issues"
+  },
+  "homepage": "https://github.com/Grunill/HerokuApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
